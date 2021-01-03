@@ -42,3 +42,7 @@ INSTALAÇÃO [Termux]:
  [+] - Você receberá o pino padrão na imagem abaixo, você pode ver o padrão com números   
 [+] - Você pode selecionar qualquer opção clicando no teclado 
  [+] - Observação: - Não exclua nenhum dos scripts incluídos nos arquivos principais  
+  
+ ATENÇÃO :
+
+Esta ferramenta é apenas para fins educacionais. Se você usar esta ferramenta para outros fins, exceto educação, não seremos responsáveis ​​em tais casos. 
